@@ -1,1 +1,1 @@
-# Creting-a-Website-using-a-Free-Template
+# Creating-a-Website-using-a-Free-Template
