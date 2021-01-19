@@ -1,4 +1,4 @@
-# Creating-a-Website-using-a-Free-Template
+# Creating a Website using a Free Template
 <br>
 Check out my site that I made using a free template from www.mashup-template.com : <br>
 https://shagunj15.github.io/Creating-a-Website-using-a-Free-Template/index.html <br><br>
